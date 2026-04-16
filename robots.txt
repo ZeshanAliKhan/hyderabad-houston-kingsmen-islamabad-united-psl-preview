@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshanalikhan.github.io/hyderabad-houston-kingsmen-islamabad-united-psl-preview/sitemap.xml
+
